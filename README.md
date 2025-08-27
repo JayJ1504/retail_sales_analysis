@@ -1,5 +1,5 @@
 🛍️ Retail Sales Forecasting App
-📌 Project Overview
+Project Overview:
 This project analyzes retail sales data and builds a machine learning model to forecast weekly sales across different stores and departments.
 A Streamlit web app is provided for interactive predictions, enabling businesses to input store, economic, and promotional details to estimate sales.
 
@@ -43,6 +43,7 @@ cd retail-sales-analysis**
 
 🔗 Links:
 📂 GitHub Repository: Retail Sales Forecasting App:- https://github.com/JayJ1504/retail_sales_analysis
+
 
 
 
